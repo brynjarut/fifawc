@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<title>FIFA World Cup 2026</title>
+</head>
+<body>
+
+<h1>FIFA World Cup 2026</h1>
+<img src="wctrophy.jpg"
+width="500"
+height="500"/>
+
+<p>The 2026 FIFA World Cup will be held between June 11 and July 19 in the USA, Mexico, and Canada.</p>
+<p>There will be 104 match fixtures for you to choose from featuring 48 teams across 16 host cities.</p>
+
+<h2>Find Your Stadium Below</h2>
+<ul>
+<li>Estadio Azteca Mexico City
+<li>Estadio Guadalajara
+<li>Toronto Stadium
+<li>Los Angeles Stadium
+<li>Boston Stadium
+<li> BC Place Vancouver
+<li>New York New Jersey Stadium
+<li>San Francisco Bay Area Stadium
+<li>Philadelphia Stadium
+<li>Houston Stadium
+<li>Dallas Stadium
+<li>Estadio Monterrey
+<li>Miami Stadium
+<li>Atlanta Stadium
+<li>Seattle Stadium
+<li>Kansas City Stadium
+</ul>
+
+<h3>Mark your calendars!</h3>
+<p>Tickets will be on sale September 15, 2025</p>
+
+</body>
+</html>
